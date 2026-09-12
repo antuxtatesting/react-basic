@@ -2,18 +2,6 @@
   "routes": [
     {
       "route": "/profile"
-    },
-    {
-      "route": "/profile"
-    },
-    {
-      "route": "/profile"
-    },
-    {
-      "route": "/profile"
-    },
-    {
-      "route": "/profile"
     }
   ]
 }
